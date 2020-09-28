@@ -16,18 +16,18 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## [Khin Chan Myae Htun]'s Cloud Journey
 
-[✍️ Introduce yourself]
+[✍️ I'm cloud nwebie and just starting my cloud journey last 3 months ago.Currently , I'm  a DevOps Intern at a Japan-Myanmar Joint company. ]
 
-[✍️ Tell us why you started this challenge]
+[✍️ I want to keep track of my 100 days journey.]
 
-[✍️ Tell us where you want to be at the end of the challenge]
+[✍️ TI want to get my SAA certificate and mybe prepare for next certificate maybe Developer Associate]
 
 - [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/khin-chan-myae-htun-6ab379190/)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [serverless session(Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
