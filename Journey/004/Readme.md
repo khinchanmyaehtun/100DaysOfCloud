@@ -5,7 +5,7 @@
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ Finishing up networking lecture for SAA.And done with diaster recovery. And Post my blog about CI/CD.
 
 ## Prerequisite
 
@@ -49,4 +49,4 @@
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[https://twitter.com/kcmh_538/status/1311886654416666625?s=20](link)
