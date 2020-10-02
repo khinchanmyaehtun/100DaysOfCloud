@@ -29,7 +29,7 @@ T want to get my SAA certificate and mybe prepare for next certificate like Deve
 
 - [ ] ☁️ 1 > Serverless session
 - [ ] ☁️ 2 > Database, cloudWatch, Cloud Trail & Cloud Config
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
+- [ ] ☁️ 3 > [](AWS Networking/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
