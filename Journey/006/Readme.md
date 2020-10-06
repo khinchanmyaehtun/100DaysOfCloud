@@ -17,4 +17,4 @@ Basic understaing of Kubernetes.
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](lhttps://twitter.com/kcmh_538/status/1312750806366478336?s=20ink)
+[https://twitter.com/kcmh_538/status/1312750806366478336?s=20(link)
