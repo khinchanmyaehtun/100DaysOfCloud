@@ -33,8 +33,8 @@ T want to get my SAA certificate and mybe prepare for next certificate like Deve
 - [ ] ☁️ 4 > Networking and Disaster Recovery services / bolog about CI/CD for bldr page
 - [ ] ☁️ 5 > LFS151 section 1 to 4 
 - [ ] ☁️ 6 > LFS151 section 5 and EKS
-- [ ] ☁️ 7 > 100% done for SAA stepehne's course 
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [ ] ☁️ 7 > some others additional services and whitepaper
+- [ ] ☁️ 8 > 100% done for SAA stepehne's course 
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
