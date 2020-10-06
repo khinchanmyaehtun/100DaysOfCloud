@@ -14,10 +14,11 @@ Try yourself
 If you want to go with AWS tutorials , I recommend you to check out Stephene's courses which is really specific and informative.
 cloud Cloud Outcome
 
-I get 51% for his test.
+67% correct (44/65) for full hr test.
+I get 51% for 2nd test.
 Next Steps
 
-I will check again this course with 1.5x speed and some blogs.
+I will check again this course with 1.5x speed and some blogs. Gotta be more serious for next practice test. 
 Social Proof
 
 Show that you shared your process on Twitter or LinkedIn
