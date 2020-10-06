@@ -5,7 +5,7 @@
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ I want to finish up my unfinished ones.
 
 ## Prerequisite
 
@@ -23,7 +23,7 @@
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+✍️ If you want to go with AWS tutorials , I recommend you to check out Stephene's courses which is really specific and informative.
 
 ### Step 1 — Summary of Step
 
@@ -39,14 +39,14 @@
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+✍️ I get 51% for his test.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+✍️ I will check again this course with 1.5x speed and some blogs.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[https://twitter.com/kcmh_538/status/1313405922736181248?s=20(link)
