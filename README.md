@@ -35,7 +35,7 @@ T want to get my SAA certificate and mybe prepare for next certificate like Deve
 - [ ] ☁️ 6 > LFS151 section 5 and EKS
 - [ ] ☁️ 7 > some others additional services and whitepaper
 - [ ] ☁️ 8 > 100% done for SAA stepehne's course 
-- [ ] ☁️ 9 > [](Journey/009/https://github.com/khinchanmyaehtun/100DaysOfCloud/tree/main/Journey/009)
+- [ ] ☁️ 9 > [Reviewing test1](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
 ## Walking down the road
