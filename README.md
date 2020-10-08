@@ -36,7 +36,7 @@ T want to get my SAA certificate and mybe prepare for next certificate like Deve
 - [ ] ☁️ 7 > some others additional services and whitepaper
 - [ ] ☁️ 8 > 100% done for SAA stepehne's course 
 - [ ] ☁️ 9 > [Reviewing test1](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 10 > [High Reliability and Elasticity from LinedIn Learning](Journey/010/Readme.md)
 
 ## Walking down the road
 
