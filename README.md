@@ -40,11 +40,11 @@ T want to get my SAA certificate and mybe prepare for next certificate like Deve
 
 ## Walking down the road
 
-- [ ] ☁️ 11 > [](Starting my revision/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
-- [ ] ☁️ 15 > [](Journey/015/Readme.md)
+- [ ] ☁️ 11 > [Starting my revision](Journey/011/Readme.md)
+- [ ] ☁️ 12 > [Route 53](Journey/012/Readme.md)
+- [ ] ☁️ 13 > [LFS 1151 6-8](Journey/013/Readme.md)
+- [ ] ☁️ 14 > [S3 , athena and CDN service](Journey/014/Readme.md)
+- [ ] ☁️ 15 > [SNS,SQS,kinesis and serverless](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [](Journey/018/Readme.md)
