@@ -13,4 +13,4 @@
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](https://twitter.com/kcmh_538/status/1315617459332804609?s=20
+[https://twitter.com/kcmh_538/status/1315617459332804609?s=20](Link)
