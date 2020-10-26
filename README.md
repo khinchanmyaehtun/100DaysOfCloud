@@ -45,15 +45,15 @@ T want to get my SAA certificate and mybe prepare for next certificate like Deve
 - [ ] ☁️ 13 > [LFS 1151 6-8](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [S3 , athena and CDN service](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [SNS,SQS,kinesis and serverless](Journey/015/Readme.md)
-- [ ] ☁️ 16 > [](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [](Journey/017/Readme.md)
-- [ ] ☁️ 18 > [](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+- [ ] ☁️ 16 > [Networking](Journey/016/Readme.md)
+- [ ] ☁️ 17 > [Filler chapter](Journey/017/Readme.md)
+- [ ] ☁️ 18 > [test 1](Journey/018/Readme.md)
+- [ ] ☁️ 19 > [Reviewing test 1 and kubernetes](Journey/019/Readme.md)
+- [ ] ☁️ 20 > [kubeapi and LFS 151](Journey/020/Readme.md)
 
 ## Crossing the bridge
 
-- [ ] ☁️ 21 > [](Journey/021/Readme.md)
+- [ ] ☁️ 21 > [test 4](Journey/021/Readme.md)
 - [ ] ☁️ 22 > [](Journey/022/Readme.md)
 - [ ] ☁️ 23 > [](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [](Journey/024/Readme.md)
